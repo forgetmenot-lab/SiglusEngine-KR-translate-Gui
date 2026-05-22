@@ -1,0 +1,1 @@
+# SiglusEngine-KR-translate-Gui
